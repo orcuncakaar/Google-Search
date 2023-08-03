@@ -1,0 +1,244 @@
+.googlelogo{
+    margin-left: 547px;
+    margin-top: 60px;
+}
+.gmaillink{
+    margin-left: 1140px;
+    margin-top: -135px;
+    font-size: 14;
+    color: black;
+    
+}
+
+.gmaillink:hover{
+    margin-left: 1140px;
+    margin-top: -135px;
+    font-size: 14;
+    color: black;
+    text-decoration: underline;
+    
+}
+
+.imageslink{
+    margin-left: 1190px;
+    margin-top: -21px;
+    font-size: 14;
+    color: black;
+}
+
+.imageslink:hover{
+    margin-left: 1190px;
+    margin-top: -21px;
+    font-size: 14;
+    color: black;
+    text-decoration: underline;
+}
+
+
+
+.input-group{
+    margin-left: 1100px;
+    margin-top: 50px;
+    
+}
+
+.search{
+    margin-top: 140px;
+    margin-left: 380px;
+    
+
+    
+}
+
+.searchjpg{
+    margin-top: -48px;
+    margin-left: 393px;
+}
+
+.keyboardlogo{
+    margin-top: -30px;
+    margin-left: 851px;
+}
+
+.microphonelogo{
+    margin-top: -29px;
+    margin-left: 896px;
+}
+
+.cameralogo{
+    margin-top: -27px;
+    margin-left: 930px;
+}
+
+.accountlogo{
+    margin-top: -206px;
+    margin-left: 1264px;
+}
+
+.searchbutton{
+    margin-top: 204px;
+    margin-left: 510px;
+    
+}
+
+
+
+
+
+.luckybutton{
+    margin-top: -33px;
+    margin-left: 645px;
+}
+
+.grayline{
+    margin-top: 223.5px;
+}
+
+.turkeyline{
+    position: relative;
+    top: -84px;
+    left: 31px;
+    color:gray;
+    font: arial;
+    font-size: 15px;
+}
+
+.aboutline{
+    position: relative;
+    top: -74px;
+    left: 35px;
+    font-size: 14.5px;
+    font: arial;
+
+}
+
+.aboutline:hover{
+    position: relative;
+    top: -74px;
+    left: 35px;
+    font-size: 14.5px;
+    font: arial;
+    text-decoration: underline;
+
+}
+
+.adline{
+    position: relative;
+    top: -74px;
+    left: 60px;
+    font-size: 14.5px;
+   font: arial;
+}
+
+.adline:hover{
+    position: relative;
+    top: -74px;
+    left: 60px;
+    font-size: 14.5px;
+   font: arial;
+   text-decoration: underline;
+}
+
+.businessline{
+    position: relative;
+    top: -96px;
+    left: 200px;
+    font-size:14.5px;
+    font: arial;
+}
+
+.businessline:hover{
+    position: relative;
+    top: -96px;
+    left: 200px;
+    font-size:14.5px;
+    font: arial;
+    text-decoration: underline;
+}
+
+.searchline{
+    position: relative;
+    top: -118px;
+    left: 275px;
+    font: arial;
+    font-size: 14.5px;
+}
+.searchline:hover{
+    position: relative;
+    top: -118px;
+    left: 275px;
+    font: arial;
+    font-size: 14.5px;
+    text-decoration: underline;
+}
+
+.soilline{
+    position: relative;
+    top: -138px;
+    left: 532px;
+    font: arial;
+    font-size: 14.5px;
+}
+
+.soilline:hover{
+    position: relative;
+    top: -138px;
+    left: 532px;
+    font: arial;
+    font-size: 14.5px;
+    text-decoration: underline;
+}
+
+.privacyline{
+    position: relative;
+    top: -160px;
+    left: 1145px;
+    font: arial;
+    font-size: 14.5px;
+}
+
+.privacyline:hover{
+    position: relative;
+    top: -160px;
+    left: 1145px;
+    font: arial;
+    font-size: 14.5px;
+    text-decoration: underline;
+}
+.policyline{
+    position: relative;
+    top: -182px;
+    left: 1216px;
+    font: arial;
+    font-size: 14.5px;
+}
+
+.policyline:hover{
+    position: relative;
+    top: -182px;
+    left: 1216px;
+    font: arial;
+    font-size: 14.5px;
+    text-decoration: underline;
+}
+
+.settingsline{
+    position: relative;
+    top: -204px;
+    left: 1286px;
+    font: arial;
+    font-size: 14.5px;
+}
+
+.settingsline:hover{
+    position: relative;
+    top: -204px;
+    left: 1286px;
+    font: arial;
+    font-size: 14.5px;
+    text-decoration: underline;
+}
+
+body{
+    overflow: hidden;
+}
